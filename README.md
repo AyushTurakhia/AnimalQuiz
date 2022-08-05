@@ -3,7 +3,7 @@ An animal quiz app to identify animal by images. It has many functions for chang
 
 ## Demo
 
-![Video](https://github.com/AyushTurakhia/AnimalQuiz/video.gif)
+![Video](https://github.com/AyushTurakhia/AnimalQuiz/blob/master/video.gif)
 
 ## Features
 
