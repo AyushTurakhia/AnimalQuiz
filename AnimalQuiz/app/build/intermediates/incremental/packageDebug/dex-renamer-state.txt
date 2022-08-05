@@ -1,0 +1,7 @@
+#Thu Dec 08 16:32:43 IRST 2016
+base.0=/Users/mortezasaadat/AndroidStudioProjects/AnimalQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37c6a6d6563f9b9a2896c233922d1136cf3c8cfd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mortezasaadat/AndroidStudioProjects/AnimalQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_825ce5644cbb34ee0d15a0513bfb37c3197b1b5f/classes.dex
+base.1=/Users/mortezasaadat/AndroidStudioProjects/AnimalQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_825ce5644cbb34ee0d15a0513bfb37c3197b1b5f
+file.0=/Users/mortezasaadat/AndroidStudioProjects/AnimalQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37c6a6d6563f9b9a2896c233922d1136cf3c8cfd/classes.dex
