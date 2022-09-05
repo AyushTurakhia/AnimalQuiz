@@ -14,6 +14,4 @@ An animal quiz app to identify animal by images. It has many functions for chang
 
 ## Screenshots
 
-<img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/BlackBackground.jpg" width="200" height="400">
-<img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/WhiteBackground.jpg" width="200" height="400">
-<img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/Settings.jpg" width="200" height="400">
+<img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/BlackBackground.jpg" width="200" height="400"> <img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/WhiteBackground.jpg" width="200" height="400"> <img src="https://github.com/AyushTurakhia/AnimalQuiz/blob/master/Settings.jpg" width="200" height="400">
